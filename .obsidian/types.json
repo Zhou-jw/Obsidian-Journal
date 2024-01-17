@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Year": "number",
+    "Month": "number",
+    "Day": "number",
+    "UID": "number"
+  }
+}

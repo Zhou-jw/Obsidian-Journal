@@ -1,0 +1,183 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 Diary/2024/00 Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              },
+              "Year": {
+                "hide": true
+              },
+              "Day": {
+                "hide": true
+              },
+              "Month": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "aliases",
+              "Category",
+              "Created",
+              "Day",
+              "Finished",
+              "Month",
+              "Status",
+              "tags",
+              "Year"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "174737a7-8b2f-4248-b26a-1405e0ec707f",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "weight",
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "b1ae571d-d6c1-45f2-80ab-869a67a98bcc",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "4bdd70f2-0e19-4e31-a267-65c70659c67f",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "06b7c9db-b1f5-4eb8-81ce-af9ec8f9dfd7",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "32b8baf3-4673-4e25-accc-d4b8c520306a",
+      "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {
+        "New field": {
+          "options": [
+            ""
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "04 Workspace",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "New field"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2930a18a-f060-4b57-b5b3-67811cc6da29",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "dbd5e1c3-2052-47a8-8300-4b4361187dfb",
+      "name": "Untitled project"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "f26d02a4fff35e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a0348fbd7a62e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366639abf3352e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Diary/2024/00 Project/CMU 15-445.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab8727f656724dd6",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc23dacf4c8fce80",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd5735042bf0274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8f9f953f9c22cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7f83f7c25b9cd30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Diary  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c023f71bf590829d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d97e4ab8d260885",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "4e2b965fb2ab5aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "02905ba98788194c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e8990e83e41ce8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "099d7c55dd9b1bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f6750704c36d708",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa95242336c70695",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07ee499fa322f484",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "63ceaa230bf481ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a733511d6c0967b",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cd8f9f953f9c22cc",
+  "lastOpenFiles": [
+    "04 Workspace/Untitled.md",
+    "01 Diary/2024/00 Project/CMU 15-445.md",
+    "01 Diary/2024/01/2024-01-16 Tue.md",
+    "01 Diary/2024/01/2024-01-15 Mon.md",
+    "01 Diary/2024/01/2024-01-17 Wed.md",
+    "03 Homepage/2024.md",
+    "00 Config/Templates/日记模板.md",
+    "01 Diary/2024/00 Project/Obsidian工作流创建.md",
+    "01 Diary/2023/01/2023-01-16 Mon.md",
+    "01 Diary/2023/12/2023-12-29 周五.md",
+    "01 Diary/2024/00 Project/MIT Web Development Crash Course.md",
+    "01 Diary/2024/00 Project/Obsidian 分享.md",
+    "00 Config/Templates/项目模板.md",
+    "01 Diary/2023/01/2023-01-15 Sun.md",
+    "01 Diary/2024/01/2024-01-14 Sun.md",
+    "00 Config/Templates/动漫模板.md",
+    "03 Homepage/Memos.md",
+    "03 Homepage/动漫.md",
+    "02 Anime/01 Anime/动漫卡片.md",
+    "01 Diary/2024/01/2024-01-10 Wed.md",
+    "01 Diary/2024/01/2024-01-11 Thu.md",
+    "01 Diary/2024/01/2024-01-12 Fri.md",
+    "01 Diary/2024/01/2024-01-13 Sat.md",
+    "01 Diary/2023/01",
+    "02 Anime/01 Anime/data/files/86-不存在的战区-.md",
+    "02 Anime/01 Anime/data/files/我心里危险的东西.md",
+    "02 Anime/01 Anime/data/files/别当欧尼酱了！.md",
+    "Untitled",
+    "00 Project",
+    "00 Config/script/template/taskprogress.js",
+    "00 Config/script/template/getrandomImage.js",
+    "00 Config/script/tasksCalendar/view.js",
+    "00 Config/script/tasksCalendar/view.css",
+    "00 Config/script/Taskido/view.js",
+    "00 Config/script/Taskido/view.css",
+    "00 Config/script/template",
+    "Untitled.canvas",
+    "02 Anime/01 Anime/cover/路人女主的养成方法.jpg",
+    "02 Anime/01 Anime/cover/路人女主的养成方法 ♭.jpg",
+    "02 Anime/01 Anime/cover/紫罗兰永恒花园.webp",
+    "02 Anime/01 Anime/cover/我心里危险的东西.jpg",
+    "02 Anime/01 Anime/cover/Lycoris Recoil.jpg",
+    "02 Anime/01 Anime/cover/冰菓.webp",
+    "02 Anime/01 Anime/cover/辉夜大小姐想让我告白～天才们的恋爱头脑战～.webp",
+    "02 Anime/01 Anime/cover/紫罗兰永恒花园外传.webp",
+    "02 Anime/01 Anime/cover/别当欧尼酱了.jpg",
+    "02 Anime/01 Anime/cover/刀剑神域.webp"
+  ]
+}

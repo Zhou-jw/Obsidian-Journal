@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Dataview Card for Other",
+    "user"
+  ],
+  "textFontFamily": "HarmonyOS Sans SC",
+  "interfaceFontFamily": "HarmonyOS Sans SC",
+  "baseFontSize": 17
+}
